@@ -1,3 +1,4 @@
 # Advocate
 
-Experimenting with scrapy and elastic search with the use of beeradvocate.com
+Experimenting with scrapy and Elastic with the use of beeradvocate.com
+and other beer rating websites.
