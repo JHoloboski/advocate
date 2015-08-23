@@ -12,6 +12,7 @@ class BadvSpiderItem(scrapy.Item):
     name = scrapy.Field()
     company = scrapy.Field()
     style = scrapy.Field()
-    location = scrapy.Field()
+    country = scrapy.Field()
+    state = scrapy.Field()
     image_url = scrapy.Field()
     score = scrapy.Field()
